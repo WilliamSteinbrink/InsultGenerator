@@ -1,5 +1,5 @@
 # InsultGenerator
-Currently logs a randomly(ish) insult to the console via button click. Work in progress.
+Currently logs a randomly(ish) generated insult to the console via button click. Work in progress.
 
 To operate:
  - open IDE console tab
